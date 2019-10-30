@@ -1,0 +1,23 @@
+{
+  "name": "stgcert",
+  "version": "1.0.0",
+  "description": "stg certification training",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ian Goodman",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^77.0.0",
+    "geckodriver": "^1.19.0",
+    "mocha": "^6.2.2",
+    "p-iteration": "^1.1.8",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {
+    "nyc": "^14.1.1"
+  }
+}
