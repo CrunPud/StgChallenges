@@ -13,7 +13,7 @@
     "chai-as-promised": "^7.1.1",
     "chromedriver": "^77.0.0",
     "geckodriver": "^1.19.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "p-iteration": "^1.1.8",
     "selenium-webdriver": "^4.0.0-alpha.5"
   },
